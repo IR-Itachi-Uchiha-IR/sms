@@ -16,8 +16,4 @@
 
 ⭕️apt install php
 
-⭕️pip install requests
-
-⭕️pip install urllib3
-
-⭕️pip install colorama
+pip install requests && pip install urllib3 && pip install colorama
